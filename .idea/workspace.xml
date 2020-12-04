@@ -30,7 +30,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f42a75-1aeb-489c-a96b-84e0b76edf81" name="Default Changelist" comment="Update README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -58,6 +57,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="sP-projDetails" />
+                    <option name="lastUsedInstant" value="1607056330" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1606904784" />
@@ -91,7 +94,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,6 +107,8 @@
       <updated>1606715437906</updated>
       <workItem from="1606715440709" duration="1980000" />
       <workItem from="1607009061002" duration="4464000" />
+      <workItem from="1607029179258" duration="652000" />
+      <workItem from="1607055857203" duration="541000" />
     </task>
     <servers />
   </component>
@@ -133,5 +138,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="57" key="SettingsEditor" timestamp="1607029838395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607029838395" />
+    <state x="435" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607029684374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607029684374" />
   </component>
 </project>
