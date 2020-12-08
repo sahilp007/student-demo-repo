@@ -1,0 +1,33 @@
+root{
+	var --primary=#a229db;
+}
+
+
+h1 {
+	font-weight: bolder;
+	/*color: dodgerblue;*/
+	font-weight: bolder;
+
+}
+
+head {
+	font-family: Constantia;
+}
+
+body {
+	font-family: "Comic Sans MS";
+	/*font-size: 19px;*/
+}
+
+button {
+	background-color: #a229db;
+	color: white;
+	border-color: #a229db;
+	padding: 5px 10px 5px 10px;
+	border-radius: 7px;
+	text-decoration: none;
+
+}
+a{
+	text-decoration: none;
+}
